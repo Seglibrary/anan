@@ -1,0 +1,19 @@
+{
+  "name": "deepgram-realtime-frontend",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Professional React Frontend for Deepgram Nova-2 Real-time Transcription",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
